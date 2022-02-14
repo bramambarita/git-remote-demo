@@ -1,1 +1,1 @@
-test git pull to local repo
+console.log("to test git pull")
